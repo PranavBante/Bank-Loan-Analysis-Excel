@@ -5,11 +5,11 @@ This dashboard is designed to analyze the lending operations of a financial inst
 
 ### The project demonstrates skills in:
 
-- Excel Data Cleaning & Processing
-- Advanced PivotTables & Data Modeling
-- KPI Calculation & Risk Assessment
-- Interactive Dashboard Design
-- Demographic & Financial Analysis
+- <b> Excel Data Cleaning & Processing </b>
+- <b> Advanced PivotTables & Data Modeling </b>
+- <b> KPI Calculation & Risk Assessment </b>
+- <b> Interactive Dashboard Design </b>
+- <b> Demographic & Financial Analysis </b>
 
 ## Dataset Description
 The dataset contains comprehensive loan records, including borrower details, loan terms, and repayment status. Below is the data dictionary explaining key columns.
@@ -39,25 +39,24 @@ The dataset contains comprehensive loan records, including borrower details, loa
 
 #### 1. Key KPIs
 
-- Total Funded Amount: The total principal amount disbursed to borrowers.
-- Total Interest Earned: Revenue generated from loan interest.
-- Total Collections: Aggregate amount collected (Principal + Interest).
-- Delinquency Rate: Percentage of loans that are past due.
-- Average Interest Rate: The weighted average rate across the portfolio.
+ - <b>Total Funded Amount:</b><i> The total principal amount disbursed to borrowers.</i>
+ - <b>Total Interest Earned:</b><i> Revenue generated from loan interest.</i>
+ - <b>Total Collections:</b><i> Aggregate amount collected (Principal + Interest).</i>
+ - <b>Delinquency Rate:</b><i> Percentage of loans that are past due.</i>
+ - <b>Average Interest Rate:</b><i> The weighted average rate across the portfolio.</i>
 
 #### 2. Visual Insights
--	Loan Status Distribution: Breakdown of Active, Fully Paid, and Non-Performing Assets (NPA).
--	Demographic Analysis: Loan distribution by Gender, Age Group, and Religion.
--	Geographic Trends: State and Region-wise lending performance.
--	Purpose-wise Funding: Analysis of loans for Business, Agriculture, and other categories.
-- Time-Series Trends: Yearly and monthly disbursement trends.
+- <b>Loan Status Distribution:</b><i> Breakdown of Active, Fully Paid, and Non-Performing Assets (NPA).</i>
+-	<b>Demographic Analysis:</b><i> Loan distribution by Gender, Age Group, and Religion.</i>
+-	<b>Geographic Trends:</b><i> State and Region-wise lending performance.</i>
+-	<b>Purpose-wise Funding:</b><i> Analysis of loans for Business, Agriculture, and other categories.</i>
+- <b>Time-Series Trends:</b><i> Yearly and monthly disbursement trends.</i>
   
 #### 3. Interactive Filters
-
--	Year / Quarter: Filter data by disbursement timeline (e.g., 2017-2020).
--	Region / State: Drill down into specific geographic markets.
--	Loan Grade: Filter by risk grade (A, B, C, etc.).
--	Purpose Category: Filter by loan usage (Agriculture, Business, Personal).
+- <b>Year / Quarter:</b><i> Filter data by disbursement timeline (e.g., 2017-2020).</i>
+- <b>Region / State:</b><i> Drill down into specific geographic markets.</i>
+- <b>Loan Grade:</b><i> Filter by risk grade (A, B, C, etc.).</i>
+- <b>Purpose Category:</b><i> Filter by loan usage (Agriculture, Business, Personal).</i>
   
 ## Tools Used
 
